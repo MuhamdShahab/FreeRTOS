@@ -2,7 +2,7 @@
  *  In this we will use task handle and manipulate different functions like suspend resume etc...
  *  Draft-1 for understaning
  *  Tasks Run on priority base we can use Suspend and Resume with task handle to control it and it work in accurate manner where function is suspended, resume will take place after the first line
- *  
+ *  Good for prioritising tasks
  */
 
 //Run this 3rd line code if you dont know how many cores your ESP have otherwise 
