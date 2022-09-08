@@ -50,4 +50,3 @@ xTaskCreatePinnedToCore(task2, "Task 2", 2048, NULL, 1, NULL, 0);
 
 vTaskDelete(NULL);
 }
-s
